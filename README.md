@@ -22,7 +22,7 @@
 1、全てのファイルをフォークし、ローカルにクローンを作成。  
 2、ローカルに保存したHTMLファイルをウェブブラウザで開く。  
 ## デモサイトURL（ポートフォリオURL）
-[testAAA](https://github.com/elmas3 "ポートフォリオURL")
+[http://s-fukushima.sakura.ne.jp/Portfolio_sample%20page_01.html](http://s-fukushima.sakura.ne.jp/Portfolio_sample%20page_01.html "ポートフォリオURL")
 
 ***
 ***
@@ -52,4 +52,4 @@ Component file/
 1、all files do fork and this all files do clone in local.  
 2、this local files open to web browser.  
 ## URL of Demo site(URL of my portfolio site)
-[testAAA](https://github.com/elmas3 "URL of my portfolio site")
+[http://s-fukushima.sakura.ne.jp/Portfolio_sample%20page_01.html](http://s-fukushima.sakura.ne.jp/Portfolio_sample%20page_01.html "URL of my portfolio site")
